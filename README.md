@@ -26,8 +26,8 @@ This project is a RESTful API for managing toy records. It provides endpoints fo
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/toy-management-api.git
-    cd toy-management-api
+    git clone https://github.com/Matheus-kb/RESTful-API-for-managing-toy-records.git
+    cd RESTful-API-for-managing-toy-records
     ```
 
 2. Install dependencies:
